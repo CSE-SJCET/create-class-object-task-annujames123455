@@ -1,5 +1,5 @@
      // TODO: Create a class called Student with name, rollNumber, and grade
-
+public class student {
     // TODO: Create a method to display student details
 public class Main {
       public static void main(String[] args) {
